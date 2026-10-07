@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+## String
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0306-additive-number) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->

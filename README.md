@@ -101,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0316-remove-duplicate-letters) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

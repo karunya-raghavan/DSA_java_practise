@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,14 +95,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
 ## Math
 |  |
 | ------- |

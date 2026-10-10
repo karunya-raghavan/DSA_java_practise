@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -34,19 +36,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,4 +166,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->

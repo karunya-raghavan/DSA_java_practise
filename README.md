@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0336-palindrome-pairs) |
+| [0345-reverse-vowels-of-a-string](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |

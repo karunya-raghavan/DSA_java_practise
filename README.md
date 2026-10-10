@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0330-patching-array) |
+| [0335-self-crossing](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0335-self-crossing) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0319-bulb-switcher) |
+| [0335-self-crossing](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0335-self-crossing) |
 ## Brainteaser
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->

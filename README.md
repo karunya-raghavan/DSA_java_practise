@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0383-ransom-note) |
 ## Backtracking
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0336-palindrome-pairs) |
+| [0383-ransom-note](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->

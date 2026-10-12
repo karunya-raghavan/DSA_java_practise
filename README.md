@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 ## Brainteaser
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0336-palindrome-pairs](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0383-ransom-note) |
+| [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 ## Trie
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 ## Recursion
 |  |
 | ------- |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0383-ransom-note) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->

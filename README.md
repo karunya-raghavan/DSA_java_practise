@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0371-sum-of-two-integers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0335-self-crossing) |
+| [0371-sum-of-two-integers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0371-sum-of-two-integers) |
 ## Brainteaser
 |  |
 | ------- |

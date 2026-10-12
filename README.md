@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0327-count-of-range-sum) |
+| [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0335-self-crossing) |
 | [0371-sum-of-two-integers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
 ## Brainteaser
 |  |
 | ------- |
@@ -245,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->

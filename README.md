@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Interactive
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Treap
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0336-palindrome-pairs) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0383-ransom-note](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 ## Trie
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0384-shuffle-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0384-shuffle-an-array) |
 ## Queue
 |  |
@@ -317,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->

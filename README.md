@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0376-wiggle-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0376-wiggle-subsequence) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0384-shuffle-an-array) |
 ## Dynamic Programming
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 ## Brainteaser
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0336-palindrome-pairs) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0355-design-twitter) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 ## Trie
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0355-design-twitter) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0384-shuffle-an-array) |
 ## Queue
 |  |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 ## Recursion

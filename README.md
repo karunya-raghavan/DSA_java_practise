@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0376-wiggle-subsequence) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0375-guess-number-higher-or-lower-ii) |

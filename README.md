@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
+| [0386-lexicographical-numbers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0388-longest-absolute-file-path) |
 ## Breadth-First Search
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0336-palindrome-pairs) |
+| [0386-lexicographical-numbers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0386-lexicographical-numbers) |
 ## Hash Function
 |  |
 | ------- |

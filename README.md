@@ -65,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
 ## Graph Theory
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
@@ -352,4 +355,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->

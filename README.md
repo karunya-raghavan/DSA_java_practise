@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0388-longest-absolute-file-path) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
+| [0388-longest-absolute-file-path](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0388-longest-absolute-file-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0341-flatten-nested-list-iterator) |
+| [0388-longest-absolute-file-path](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0388-longest-absolute-file-path) |
 ## Greedy
 |  |
 | ------- |

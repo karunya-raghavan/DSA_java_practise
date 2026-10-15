@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 ## Brainteaser
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0390-elimination-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

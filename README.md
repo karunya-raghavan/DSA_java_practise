@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0414-third-maximum-number) |
 ## Quickselect
 |  |
 | ------- |

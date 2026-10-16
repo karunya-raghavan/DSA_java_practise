@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0376-wiggle-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 ## Euler's Totient Function
 |  |
 | ------- |

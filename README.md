@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0427-construct-quad-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0327-count-of-range-sum) |
 | [0372-super-pow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0372-super-pow) |
+| [0427-construct-quad-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0427-construct-quad-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0341-flatten-nested-list-iterator) |
+| [0427-construct-quad-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0427-construct-quad-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0417-pacific-atlantic-water-flow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0427-construct-quad-tree) |
 ## Directed Acyclic Graph
 |  |
 | ------- |

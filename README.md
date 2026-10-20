@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0427-construct-quad-tree) |
+| [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0392-is-subsequence) |
+| [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Trie
 |  |
 | ------- |

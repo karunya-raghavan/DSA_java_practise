@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0400-nth-digit](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0441-arranging-coins) |
 ## Brainteaser
 |  |
 | ------- |

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0417-pacific-atlantic-water-flow) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0416-partition-equal-subset-sum) |
 ## String
 |  |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0416-partition-equal-subset-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0414-third-maximum-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph Theory
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0407-trapping-rain-water-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0419-battleships-in-a-board) |
 | [0427-construct-quad-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0427-construct-quad-tree) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0332-reconstruct-itinerary) |
 | [0355-design-twitter](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0355-design-twitter) |
+| [0407-trapping-rain-water-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0420-strong-password-checker) |
 ## Eulerian Circuit
 |  |

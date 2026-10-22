@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0427-construct-quad-tree) |
 | [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Dynamic Programming
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Trie
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0336-palindrome-pairs](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0386-lexicographical-numbers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Hash Function
 |  |
 | ------- |

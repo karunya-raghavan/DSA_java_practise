@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0420-strong-password-checker) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0341-flatten-nested-list-iterator) |
 | [0388-longest-absolute-file-path](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0388-longest-absolute-file-path) |
+| [0402-remove-k-digits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0420-strong-password-checker) |
 ## Monotonic Stack
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0321-create-maximum-number) |
+| [0402-remove-k-digits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0402-remove-k-digits) |
 ## Math
 |  |
 | ------- |

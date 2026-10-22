@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0420-strong-password-checker) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0423-reconstruct-original-digits-from-english) |

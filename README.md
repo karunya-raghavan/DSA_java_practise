@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0427-construct-quad-tree) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Dynamic Programming
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Trie
 |  |

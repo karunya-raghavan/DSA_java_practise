@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0413-arithmetic-slices) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0420-strong-password-checker) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0397-integer-replacement) |
 ## Matrix
 |  |
 | ------- |

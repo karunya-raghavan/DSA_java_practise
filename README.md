@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0457-circular-array-loop) |
 ## Trie
 |  |
@@ -511,4 +513,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->

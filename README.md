@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0413-arithmetic-slices) |
@@ -194,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0327-count-of-range-sum) |
+| [0406-queue-reconstruction-by-height](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0406-queue-reconstruction-by-height) |
 ## Merge Sort
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/karunya-raghavan/DSA_java_practise/tree/master/0414-third-maximum-number) |
 ## Quickselect
 |  |
